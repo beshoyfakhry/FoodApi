@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodElMenus</string>
+     <string name="category">Category:</string>
+    <string name="origin">Origin:</string>
+    <string name="meal_of_the_day">Meal of the day</string>
+    <string name="explore">Explore</string>
+</resources>
