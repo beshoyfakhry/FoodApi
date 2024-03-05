@@ -139,5 +139,4 @@ class MainActivity : AppCompatActivity() {
         _binding.pbMenu.visibility = View.VISIBLE
     }
 
-
 }

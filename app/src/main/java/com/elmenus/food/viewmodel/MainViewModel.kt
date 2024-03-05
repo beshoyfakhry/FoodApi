@@ -26,7 +26,6 @@ class MainViewModel @Inject constructor
     fun fetchMenuResponse() = viewModelScope.launch {
         repository.getMenu().collect { values ->
             _response.value = values
-
         }
     }
 
